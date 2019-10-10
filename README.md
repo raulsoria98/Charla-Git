@@ -46,3 +46,15 @@ Muestra las ramas y en a que estás
 
 ### __git switch/checkout \<rama>__
 Cambia a la rama _rama_
+
+### __git merge \<rama>__
+Une la rama _rama_ a la rama actual
+
+### __git branch -d \<dev>__
+Delete de la rama \<dev>
+
+### __git push --delete origin \<dev>__
+Elimina la rama \<dev> en el remoto
+
+### __git revert \<numero de comit>
+Crea un nuevo commit con la misma version del numero de commit que has metido
