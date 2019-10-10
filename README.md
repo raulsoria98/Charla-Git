@@ -37,3 +37,6 @@ Trae al repositorio local la rama master de origin
 
 ### __git clone <repositorio remoto>__
 Descarga un repositorio
+
+### __git checkout -b <nombre>__
+Crea una nueva rama _nombre_ al repositorio
